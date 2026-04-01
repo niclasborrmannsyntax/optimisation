@@ -1,0 +1,87 @@
+{
+  "seo": {
+    "title": "NeuralFlow - KI-Workflow-Automatisierungsplattform für moderne Teams",
+    "description": "Optimieren Sie den Workflow Ihres Teams mit NeuralFlows KI-gestützter Automatisierung. Reduzieren Sie manuelle Aufgaben um 60%, steigern Sie die Produktivität und skalieren Sie mühelos. Jetzt kostenlos starten.",
+    "keywords": "KI-Workflow-Automatisierung, Team-Produktivität, KI-SaaS, Geschäftsautomatisierung, Workflow-Optimierung, KI-Tools für Teams"
+  },
+  "hero": {
+    "title": "Automatisieren Sie Ihren Workflow mit",
+    "highlight": "KI-gestützter Intelligenz",
+    "subtitle": "NeuralFlow hilft modernen Teams, repetitive Aufgaben zu eliminieren, Abläufe zu optimieren und die Produktivität um bis zu 40% zu steigern. Schließen Sie sich über 10.000 Teams an, die bereits smarter arbeiten.",
+    "exploreFeatures": "Funktionen entdecken",
+    "startTrial": "Kostenlos testen",
+    "trust": "Keine Kreditkarte erforderlich · 14 Tage kostenlos · Jederzeit kündbar"
+  },
+  "features": {
+    "title": "Leistungsstarke Funktionen für smarteres Arbeiten",
+    "subtitle": "Alles, was Ihr Team braucht, um Workflows zu automatisieren und sich auf das Wesentliche zu konzentrieren.",
+    "items": {
+      "taskRouting": {
+        "title": "Intelligentes Task-Routing",
+        "description": "Unsere KI weist Aufgaben automatisch den richtigen Teammitgliedern basierend auf Fähigkeiten, Verfügbarkeit und Arbeitslast zu. Reduzieren Sie Engpässe um 50%."
+      },
+      "analytics": {
+        "title": "Prädiktive Analytik",
+        "description": "Prognostizieren Sie Projektzeitpläne, identifizieren Sie Risiken frühzeitig und treffen Sie datengestützte Entscheidungen mit unseren fortschrittlichen Machine-Learning-Modellen."
+      },
+      "integrations": {
+        "title": "Nahtlose Integrationen",
+        "description": "Verbinden Sie sich mit über 200 Tools einschließlich Slack, Jira, GitHub und Salesforce. Ihr bestehender Workflow, mit KI aufgerüstet."
+      },
+      "collaboration": {
+        "title": "Echtzeit-Zusammenarbeit",
+        "description": "Arbeiten Sie nahtlos zusammen mit Live-Bearbeitung, sofortigen Benachrichtigungen und KI-gestützten Vorschlägen, die Ihr Team im Einklang halten."
+      },
+      "reporting": {
+        "title": "Automatisierte Berichterstattung",
+        "description": "Erstellen Sie umfassende Berichte automatisch. Sparen Sie jede Woche Stunden mit KI-generierten Einblicken und Visualisierungen."
+      },
+      "security": {
+        "title": "Unternehmenssicherheit",
+        "description": "SOC 2 Type II zertifiziert mit Ende-zu-Ende-Verschlüsselung, SSO und granularer Zugriffskontrolle. Ihre Daten bleiben sicher."
+      }
+    }
+  },
+  "howItWorks": {
+    "title": "So funktioniert NeuralFlow",
+    "steps": {
+      "1": {
+        "title": "Verbinden Sie Ihre Tools",
+        "description": "Integrieren Sie Ihren bestehenden Stack in Minuten mit unseren One-Click-Konnektoren. Kein Coding erforderlich."
+      },
+      "2": {
+        "title": "Definieren Sie Ihre Workflows",
+        "description": "Nutzen Sie unseren visuellen Builder oder lassen Sie die KI optimale Workflows basierend auf den Mustern Ihres Teams vorschlagen."
+      },
+      "3": {
+        "title": "Produktivitätssteigerung beobachten",
+        "description": "Lehnen Sie sich zurück, während NeuralFlow das Routineautomatisiert, Erkenntnisse aufdeckt und Ihr Team im Flow hält."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Vertraut von Teams weltweit",
+    "items": {
+      "1": {
+        "quote": "NeuralFlow hat unsere Projektlieferzeit um 35% verkürzt. Die KI-Vorschläge sind erstaunlich genau und für unser Team unverzichtbar geworden.",
+        "name": "Sarah Chen",
+        "role": "VP of Engineering bei TechCorp"
+      },
+      "2": {
+        "quote": "Wir haben allein bei der Berichterstattung 20 Stunden pro Woche gespart. Die automatisierten Erkenntnisse haben unsere Entscheidungsfindung transformiert.",
+        "name": "Marcus Rivera",
+        "role": "Product Lead bei ScaleUp Inc"
+      },
+      "3": {
+        "quote": "Die beste Investition, die wir dieses Jahr getätigt haben. Die Produktivität unseres Teams stieg im ersten Monat um 40%.",
+        "name": "Emma Larsson",
+        "role": "CEO bei Nordic Digital"
+      }
+    }
+  },
+  "cta": {
+    "title": "Bereit, Ihren Workflow zu transformieren?",
+    "description": "Schließen Sie sich über 10.000 Teams an, die NeuralFlow nutzen, um smarter, nicht härter zu arbeiten. Starten Sie noch heute Ihre kostenlose 14-Tage-Testversion.",
+    "button": "Jetzt kostenlos starten"
+  }
+}

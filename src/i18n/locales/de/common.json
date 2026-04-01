@@ -1,0 +1,19 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns"
+  },
+  "footer": {
+    "tagline": "KI-gestützte Workflow-Automatisierung für moderne Teams.",
+    "product": "Produkt",
+    "company": "Unternehmen",
+    "ourStory": "Unsere Geschichte",
+    "team": "Team",
+    "features": "Funktionen",
+    "rights": "Alle Rechte vorbehalten."
+  },
+  "languages": {
+    "en": "English",
+    "de": "Deutsch"
+  }
+}

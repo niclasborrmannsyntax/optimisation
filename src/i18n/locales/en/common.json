@@ -1,0 +1,19 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About"
+  },
+  "footer": {
+    "tagline": "AI-powered workflow automation for modern teams.",
+    "product": "Product",
+    "company": "Company",
+    "ourStory": "Our Story",
+    "team": "Team",
+    "features": "Features",
+    "rights": "All rights reserved."
+  },
+  "languages": {
+    "en": "English",
+    "de": "Deutsch"
+  }
+}

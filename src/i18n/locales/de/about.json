@@ -1,0 +1,91 @@
+{
+  "seo": {
+    "title": "Über NeuralFlow - Unsere Mission, die Arbeitsweise von Teams zu transformieren",
+    "description": "Erfahren Sie mehr über NeuralFlows Mission, KI-gestützte Workflow-Automatisierung für jedes Team zugänglich zu machen. Lernen Sie unser Führungsteam kennen und entdecken Sie unsere Geschichte.",
+    "keywords": "über NeuralFlow, KI-Unternehmen, Workflow-Automatisierung Team, NeuralFlow Gründer, KI-SaaS-Unternehmen"
+  },
+  "hero": {
+    "title": "Unsere Mission: Jedes Team mit KI smarter machen",
+    "subtitle": "Wir glauben, dass jedes Team Zugang zu intelligenter Automatisierung verdient. NeuralFlow wurde 2022 aus einer einfachen Beobachtung geboren: talentierte Menschen verbringen zu viel Zeit mit repetitiven Aufgaben, anstatt die kreative, strategische Arbeit zu tun, die wirklich zählt."
+  },
+  "story": {
+    "title": "Unsere Geschichte",
+    "paragraph1": "NeuralFlow begann in einem kleinen Co-Working-Space in San Francisco, als die Mitgründer Dr. Elena Vasquez und James Park erkannten, dass dieselben KI-Techniken, die massive Tech-Unternehmen antreiben, Teams jeder Größe helfen könnten, effizienter zu arbeiten.",
+    "paragraph2": "Nach Jahren des Aufbaus von KI-Systemen bei Google und Amazon sahen sie eine Marktlücke: leistungsstarke Workflow-Automatisierungstools existierten, erforderten aber umfangreiche Einrichtung und technisches Know-how. NeuralFlow wurde entwickelt, das zu ändern.",
+    "paragraph3": "Heute bedient NeuralFlow über 10.000 Teams weltweit, von Startups bis zu Fortune-500-Unternehmen. Unsere Plattform verarbeitet täglich Millionen von Aufgaben und hilft Teams, durchschnittlich 15 Stunden pro Woche bei manueller Arbeit zu sparen."
+  },
+  "values": {
+    "title": "Unsere Werte",
+    "items": {
+      "1": {
+        "title": "KI für alle",
+        "description": "Wir demokratisieren KI-gestützte Produktivität. Kein PhD in Machine Learning erforderlich – verbinden Sie einfach Ihre Tools und lassen Sie NeuralFlow die schwere Arbeit erledigen."
+      },
+      "2": {
+        "title": "Datenschutz zuerst",
+        "description": "Ihre Daten gehören Ihnen. Wir sind SOC 2 Type II zertifiziert, DSGVO-konform und verwenden niemals Kundendaten zum Trainieren unserer Modelle ohne ausdrückliche Zustimmung."
+      },
+      "3": {
+        "title": "Kontinuierliche Innovation",
+        "description": "Wir liefern wöchentlich Verbesserungen. Unser Team aus über 50 Ingenieuren und Forschern arbeitet ständig an den Grenzen dessen, was KI für Workflows leisten kann."
+      },
+      "4": {
+        "title": "Kundenobsession",
+        "description": "Jedes Feature, das wir entwickeln, beginnt mit Kundenfeedback. Unsere 4,8/5-Bewertung auf G2 spiegelt unser Engagement wider, echte Probleme zu lösen."
+      }
+    }
+  },
+  "team": {
+    "title": "Lernen Sie unsere Führungsebene kennen",
+    "subtitle": "Ein Team aus KI-Forschern, Ingenieuren und Produktexperten, vereint durch eine gemeinsame Vision smarterer Arbeit.",
+    "members": {
+      "1": {
+        "name": "Dr. Elena Vasquez",
+        "role": "CEO & Mitgründerin",
+        "bio": "Ehemalige ML-Leiterin bei Google Brain mit 15 Jahren KI-Forschungserfahrung."
+      },
+      "2": {
+        "name": "James Park",
+        "role": "CTO & Mitgründer",
+        "bio": "Ex-AWS-Architekt, der Infrastruktur für Millionen von Anfragen täglich aufgebaut hat."
+      },
+      "3": {
+        "name": "Aisha Patel",
+        "role": "Leiterin Produkt",
+        "bio": "Produktveteranin von Stripe und Notion mit einer Leidenschaft für Developer-Tools."
+      },
+      "4": {
+        "name": "Marcus Lindqvist",
+        "role": "Leiter Engineering",
+        "bio": "Leitete Engineering-Teams bei Spotify und Klarna und skalierte Produkte auf über 100 Mio. Nutzer."
+      }
+    }
+  },
+  "stats": {
+    "title": "NeuralFlow in Zahlen",
+    "items": {
+      "1": {
+        "number": "10.000+",
+        "label": "Teams vertrauen NeuralFlow"
+      },
+      "2": {
+        "number": "15 Std.",
+        "label": "Ersparnis pro Woche, pro Team"
+      },
+      "3": {
+        "number": "4,8/5",
+        "label": "Durchschnittsbewertung auf G2"
+      },
+      "4": {
+        "number": "50+",
+        "label": "Teammitglieder weltweit"
+      }
+    }
+  },
+  "cta": {
+    "title": "Möchten Sie Teil unserer Reise sein?",
+    "description": "Ob Sie Ihren Workflow transformieren oder unserem wachsenden Team beitreten möchten – wir würden gerne von Ihnen hören.",
+    "trialButton": "Kostenlos testen",
+    "careersButton": "Offene Stellen ansehen"
+  }
+}

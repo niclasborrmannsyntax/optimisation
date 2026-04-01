@@ -1,0 +1,87 @@
+{
+  "seo": {
+    "title": "NeuralFlow - AI Workflow Automation Platform for Modern Teams",
+    "description": "Streamline your team's workflow with NeuralFlow's AI-powered automation. Reduce manual tasks by 60%, boost productivity, and scale your operations effortlessly. Start free today.",
+    "keywords": "AI workflow automation, team productivity, AI SaaS, business automation, workflow optimization, AI tools for teams"
+  },
+  "hero": {
+    "title": "Automate Your Workflow with",
+    "highlight": "AI-Powered Intelligence",
+    "subtitle": "NeuralFlow helps modern teams eliminate repetitive tasks, streamline operations, and boost productivity by up to 40%. Join 10,000+ teams already working smarter.",
+    "exploreFeatures": "Explore Features",
+    "startTrial": "Start Free Trial",
+    "trust": "No credit card required · 14-day free trial · Cancel anytime"
+  },
+  "features": {
+    "title": "Powerful Features for Smarter Work",
+    "subtitle": "Everything your team needs to automate workflows and focus on what matters most.",
+    "items": {
+      "taskRouting": {
+        "title": "Intelligent Task Routing",
+        "description": "Our AI automatically assigns tasks to the right team members based on skills, availability, and workload. Reduce bottlenecks by 50%."
+      },
+      "analytics": {
+        "title": "Predictive Analytics",
+        "description": "Forecast project timelines, identify risks early, and make data-driven decisions with our advanced machine learning models."
+      },
+      "integrations": {
+        "title": "Seamless Integrations",
+        "description": "Connect with 200+ tools including Slack, Jira, GitHub, and Salesforce. Your existing workflow, supercharged with AI."
+      },
+      "collaboration": {
+        "title": "Real-Time Collaboration",
+        "description": "Work together seamlessly with live editing, instant notifications, and AI-powered suggestions that keep your team aligned."
+      },
+      "reporting": {
+        "title": "Automated Reporting",
+        "description": "Generate comprehensive reports automatically. Save hours every week with AI-generated insights and visualizations."
+      },
+      "security": {
+        "title": "Enterprise Security",
+        "description": "SOC 2 Type II certified with end-to-end encryption, SSO, and granular access controls. Your data stays secure."
+      }
+    }
+  },
+  "howItWorks": {
+    "title": "How NeuralFlow Works",
+    "steps": {
+      "1": {
+        "title": "Connect Your Tools",
+        "description": "Integrate your existing stack in minutes with our one-click connectors. No coding required."
+      },
+      "2": {
+        "title": "Define Your Workflows",
+        "description": "Use our visual builder or let AI suggest optimal workflows based on your team's patterns."
+      },
+      "3": {
+        "title": "Watch Productivity Soar",
+        "description": "Sit back as NeuralFlow automates the routine, surfaces insights, and keeps your team in flow."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Trusted by Teams Worldwide",
+    "items": {
+      "1": {
+        "quote": "NeuralFlow cut our project delivery time by 35%. The AI suggestions are eerily accurate and have become indispensable to our team.",
+        "name": "Sarah Chen",
+        "role": "VP of Engineering at TechCorp"
+      },
+      "2": {
+        "quote": "We saved 20 hours per week on reporting alone. The automated insights have transformed how we make decisions.",
+        "name": "Marcus Rivera",
+        "role": "Product Lead at ScaleUp Inc"
+      },
+      "3": {
+        "quote": "The best investment we made this year. Our team's productivity increased by 40% in the first month.",
+        "name": "Emma Larsson",
+        "role": "CEO at Nordic Digital"
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready to Transform Your Workflow?",
+    "description": "Join over 10,000 teams using NeuralFlow to work smarter, not harder. Start your free 14-day trial today.",
+    "button": "Get Started Free"
+  }
+}

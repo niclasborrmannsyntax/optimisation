@@ -1,0 +1,91 @@
+{
+  "seo": {
+    "title": "About NeuralFlow - Our Mission to Transform How Teams Work",
+    "description": "Learn about NeuralFlow's mission to make AI-powered workflow automation accessible to every team. Meet our leadership team and discover our story.",
+    "keywords": "about NeuralFlow, AI company, workflow automation team, NeuralFlow founders, AI SaaS company"
+  },
+  "hero": {
+    "title": "Our Mission: Make Every Team Smarter with AI",
+    "subtitle": "We believe every team deserves access to intelligent automation. Founded in 2022, NeuralFlow was born from a simple observation: talented people spend too much time on repetitive tasks instead of doing the creative, strategic work that matters."
+  },
+  "story": {
+    "title": "Our Story",
+    "paragraph1": "NeuralFlow started in a small co-working space in San Francisco when co-founders Dr. Elena Vasquez and James Park realized that the same AI techniques powering massive tech companies could help teams of any size work more efficiently.",
+    "paragraph2": "After years of building AI systems at Google and Amazon, they saw a gap in the market: powerful workflow automation tools existed, but they required extensive setup and technical expertise. NeuralFlow was designed to change that.",
+    "paragraph3": "Today, NeuralFlow serves over 10,000 teams worldwide, from startups to Fortune 500 companies. Our platform processes millions of tasks daily, helping teams save an average of 15 hours per week on manual work."
+  },
+  "values": {
+    "title": "Our Values",
+    "items": {
+      "1": {
+        "title": "AI for Everyone",
+        "description": "We democratize AI-powered productivity. No PhD in machine learning required—just connect your tools and let NeuralFlow do the heavy lifting."
+      },
+      "2": {
+        "title": "Privacy First",
+        "description": "Your data is yours. We're SOC 2 Type II certified, GDPR compliant, and never use customer data to train our models without explicit consent."
+      },
+      "3": {
+        "title": "Continuous Innovation",
+        "description": "We ship improvements weekly. Our team of 50+ engineers and researchers is constantly pushing the boundaries of what AI can do for workflows."
+      },
+      "4": {
+        "title": "Customer Obsession",
+        "description": "Every feature we build starts with customer feedback. Our 4.8/5 rating on G2 reflects our commitment to solving real problems."
+      }
+    }
+  },
+  "team": {
+    "title": "Meet Our Leadership",
+    "subtitle": "A team of AI researchers, engineers, and product leaders united by a shared vision of smarter work.",
+    "members": {
+      "1": {
+        "name": "Dr. Elena Vasquez",
+        "role": "CEO & Co-Founder",
+        "bio": "Former ML lead at Google Brain with 15 years of AI research experience."
+      },
+      "2": {
+        "name": "James Park",
+        "role": "CTO & Co-Founder",
+        "bio": "Ex-AWS architect who built infrastructure serving millions of requests daily."
+      },
+      "3": {
+        "name": "Aisha Patel",
+        "role": "Head of Product",
+        "bio": "Product veteran from Stripe and Notion with a passion for developer tools."
+      },
+      "4": {
+        "name": "Marcus Lindqvist",
+        "role": "Head of Engineering",
+        "bio": "Led engineering teams at Spotify and Klarna, scaling products to 100M+ users."
+      }
+    }
+  },
+  "stats": {
+    "title": "NeuralFlow by the Numbers",
+    "items": {
+      "1": {
+        "number": "10,000+",
+        "label": "Teams Trust NeuralFlow"
+      },
+      "2": {
+        "number": "15hrs",
+        "label": "Saved Per Week, Per Team"
+      },
+      "3": {
+        "number": "4.8/5",
+        "label": "Average Rating on G2"
+      },
+      "4": {
+        "number": "50+",
+        "label": "Team Members Worldwide"
+      }
+    }
+  },
+  "cta": {
+    "title": "Want to Join Our Journey?",
+    "description": "Whether you're looking to transform your workflow or join our growing team, we'd love to hear from you.",
+    "trialButton": "Start Free Trial",
+    "careersButton": "View Open Positions"
+  }
+}
