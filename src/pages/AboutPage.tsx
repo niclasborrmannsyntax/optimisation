@@ -86,7 +86,7 @@ export function AboutPage() {
       <JsonLd data={organizationStructuredData} />
 
       <section
-        className="py-24 md:py-32 text-center bg-to-br from-slate-50 to-indigo-100"
+        className="py-24 md:py-32 text-center bg-linear-to-br from-slate-50 to-indigo-100"
         aria-labelledby="about-heading"
       >
         <div className="max-w-6xl mx-auto px-6">
@@ -169,7 +169,7 @@ export function AboutPage() {
                 className="text-center p-8 bg-slate-50 rounded-lg transition-all hover:-translate-y-1 hover:shadow-md"
               >
                 <div
-                  className="w-20 h-20 bg-to-br from-indigo-500 to-sky-500 text-white text-2xl font-bold rounded-full flex items-center justify-center mx-auto mb-4"
+                  className="w-20 h-20 bg-linear-to-br from-indigo-500 to-sky-500 text-white text-2xl font-bold rounded-full flex items-center justify-center mx-auto mb-4"
                   aria-hidden="true"
                 >
                   {member.name
@@ -199,7 +199,7 @@ export function AboutPage() {
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-8 text-center">
             {stats.map((stat) => (
               <div key={stat.number} className="p-6">
-                <span className="block text-4xl md:text-5xl font-extrabold bg-to-r from-indigo-400 to-sky-500 bg-clip-text text-transparent mb-2">
+                <span className="block text-4xl md:text-5xl font-extrabold bg-linear-to-r from-indigo-400 to-sky-500 bg-clip-text text-transparent mb-2">
                   {stat.number}
                 </span>
                 <span className="text-base opacity-80">{stat.label}</span>

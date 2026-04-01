@@ -38,7 +38,7 @@ export function LandingPage() {
       <JsonLd data={structuredData} />
 
       <section
-        className="py-24 md:py-32 text-center bg-to-br from-slate-50 to-indigo-100"
+        className="py-24 md:py-32 text-center bg-linear-to-br from-slate-50 to-indigo-100"
         aria-labelledby="hero-heading"
       >
         <div className="max-w-6xl mx-auto px-6">
@@ -47,7 +47,7 @@ export function LandingPage() {
             className="text-4xl md:text-5xl lg:text-6xl font-extrabold leading-tight mb-6 text-slate-900"
           >
             {t("landing:hero.title")}{" "}
-            <span className="bg-to-r from-indigo-500 to-sky-500 bg-clip-text text-transparent">
+            <span className="bg-linear-to-r from-indigo-500 to-sky-500 bg-clip-text text-transparent">
               {t("landing:hero.highlight")}
             </span>
           </h1>
