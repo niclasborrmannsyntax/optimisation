@@ -1,5 +1,7 @@
 # SEO Leitfaden für Webseiten
 
+https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=de
+
 ## 1. Was ist SEO?
 
 SEO (Search Engine Optimization) bedeutet, eine Seite so zu optimieren, dass sie in Suchmaschinen besser gefunden, besser verstanden und häufiger geklickt wird.
