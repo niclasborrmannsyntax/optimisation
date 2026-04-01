@@ -9,7 +9,7 @@ export default defineConfig({
     tailwindcss(),
     Sitemap({
       hostname: "https://www.neuralflow.ai",
-      dynamicRoutes: ["/", "/about", "/de", "/de/about"],
+      dynamicRoutes: ["/", "/about"],
       exclude: ["/404"],
       generateRobotsTxt: true,
       i18n: {
