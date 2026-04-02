@@ -32,8 +32,6 @@ export function LandingPage() {
         description={t("landing:seo.description")}
         canonicalUrl="/"
         keywords={t("landing:seo.keywords")}
-        ogImage="/og-home.jpg"
-        ogType="website"
       />
       <JsonLd data={structuredData} />
 
